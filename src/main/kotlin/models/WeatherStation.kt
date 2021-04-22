@@ -14,8 +14,4 @@ class WeatherStation : IObserver {
     override fun update(climate: Climate, value: Int) {
         Logger.log("$climate | value: $value")
     }
-
-
-
-
 }
