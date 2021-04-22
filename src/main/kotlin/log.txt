@@ -1,0 +1,5 @@
+HUMIDITY | value: 4
+TEMPERATURE | value: 8
+HUMIDITY | value: 9
+TEMPERATURE | value: 12
+TEMPERATURE | value: 7
